@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-Your Name - [Your GitHub](https://github.com/yourusername)
+Manish Morla - https://github.com/manishmorla
 
 ## 🙏 Acknowledgments
 
